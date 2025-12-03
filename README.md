@@ -84,3 +84,25 @@ Si la matriz no tiene inverso modular, se notifica al usuario.
 
 ## Commits realizados
 
+Estructura HTML base
+Implementación del cifrado en JavaScript
+Diseño inicial de estilos en CSS
+Cálculo de matriz inversa y desencriptado
+Mejoras visuales y organización del formulario
+
+
+---
+
+## Agradecimientos
+
+- Profesor **Jorge Javier Pedrozo Romero** por la guía teórica.  
+- Compañeros del grupo C por el apoyo durante el desarrollo.  
+
+---
+
+## Contacto
+
+- **GitHub:** Joshua-221  
+
+Proyecto desarrollado por **Joshua Cruz** — 2025.
+
