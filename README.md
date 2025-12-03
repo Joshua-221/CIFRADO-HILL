@@ -1,41 +1,28 @@
-# 📄 Documentación del Proyecto
+# Proyecto: Implementación del Cifrado Hill
 
-Este proyecto contiene una estructura básica de HTML, CSS y JavaScript, ideal para iniciar un desarrollo web simple.
+## Información del Estudiante
+
+- **Nombre:** Joshua Cruz  
+- **Grupo:** C  
+- **Cuatrimestre:** Primero  
+- **Carrera:** TSU en Desarrollo e Innovación de Software  
+- **Materia:** Matemáticas para Computación  
+- **Profesor:** Jorge Javier Pedrozo Romero  
 
 ---
 
-## Estructura del Proyecto
+## Descripción del Proyecto
 
-- `index.html` — Estructura principal del sitio.
-- `style.css` — Estilos del proyecto.
-- `script.js` — Lógica y eventos del sitio.
+Este proyecto consiste en la creación de una aplicación web que implementa el algoritmo clásico de cifrado Hill.  
+Su propósito es demostrar el uso práctico de matrices, determinantes e inversos modulares en el área de seguridad informática básica.
 
----
+La aplicación permite:
+- Encriptar mensajes utilizando una matriz clave 2×2.
+- Desencriptar mensajes usando la matriz inversa.
+- Validar entradas, manejar caracteres incorrectos y aplicar relleno cuando sea necesario.
 
-## 📁 Código del Proyecto
+### Tecnologías utilizadas
 
-### 🧩 1. index.html
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Proyecto</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <header>
-        <h1>Bienvenido a mi proyecto</h1>
-    </header>
-
-    <main>
-        <p>Este es un ejemplo de estructura HTML conectada a CSS y JavaScript.</p>
-        <button id="btnSaludar">Haz clic aquí</button>
-    </main>
-
-    <script src="script.js"></script>
-</body>
-</html>
+- **HTML5:** estructura de la interfaz.  
+- **CSS3:** diseño visual y distribución.  
+- **JavaScript:** implementación del algoritmo matemático y manejo de la interacción del usuario.
